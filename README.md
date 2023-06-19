@@ -11,4 +11,6 @@
    - Polimorfismo
    - Arrays
 
-- Na branch Master está as classes e códigos.
+### Na branch Master está as classes e códigos.
+
+- PS: neste repositório, você encontrará um trabalho acadêmico desenvolvido como parte dos meus estudos na faculdade.
