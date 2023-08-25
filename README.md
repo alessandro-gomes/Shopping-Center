@@ -1,6 +1,6 @@
 # Shopping-Center
 
-- Sistema para gerenciar lojas do Shopping.
+- Trabalho Acadêmico: Sistema para gerenciar lojas do Shopping.
   
 - Feito com Java puro, utilizando muito:
    - Lógica de programação
@@ -10,6 +10,7 @@
    - Herança
    - Polimorfismo
    - Arrays
+   - Arrays de Objetos
 
 ### Na branch Master está as classes e códigos.
 
