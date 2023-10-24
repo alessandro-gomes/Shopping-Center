@@ -12,6 +12,6 @@
    - Arrays
    - Arrays de Objetos
 
-### Na branch Master está as classes e códigos.
+### O código fonte encontra-se na branch master.
 
 - PS: neste repositório, você encontrará um trabalho acadêmico desenvolvido como parte dos meus estudos na faculdade.
